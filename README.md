@@ -2,7 +2,7 @@
 
 <p>Application with building burger simulation with ordering, authentication, tracking orders for every users....</p>
 
-<h3>Technollogies used:</h3>
+<h3>Technologies used:</h3>
 <p>Database: Firebase, Redux, lifecycle components in react (worked with older version of React - all statefull components are class based)</p>
 
 <h4>To start app clone reposeitory, navigate to folder locally (from terminal) and then run <h2>npm start</h2></h4>
